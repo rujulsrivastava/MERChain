@@ -1,4 +1,4 @@
-# SwasthyaChain : Health Records Management Using Blockchain
+# MERChain : Health Records Management Using Blockchain
 
 
 ## Introduction
